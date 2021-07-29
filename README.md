@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raghupathiguduri
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently working as Junior Devops Engineer at Opt It Technologies Pvt Ltd
 - 📫 How to reach me ...9030686362
 
 <!---
